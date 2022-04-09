@@ -19,25 +19,21 @@ This app uses <a href="https://reactjs.org/" target="_blank">ReactJS</a> framewo
 
 For a quick preview of the site, click the link below:
 
-https://robofriends-2022-daniel.herokuapp.com/
+https://codemaster7.github.io/robofriends
 
-## Run App Local
-If you are interested on cloning this repo:
-1. Clone this repo to your local machine
-2. From the command-line, run
-```bash
-npm install
-``` 
+## Technologies Used
+### Front-end
+- HTML5
+- CSS3
+- Javascript
+- React
+### Dependencies
+- gh-pages
+- tackyons
 
-3. After the packages have been installed, start the live preview
-```bash
-npm start
-```
-
-## Feedback
-You can also countribute or give feedback on this project.
-
-Reach me on discord:\
-https://discordapp.com/users/796539553761984565
+## Author
+- Website - [Sam Bonfanti](https://sambonfanti.club/)
+- Frontend Mentor - [@CodeMaster7](https://www.frontendmentor.io/profile/CodeMaster7)
+- Linkedin - [sambonfanti](https://www.linkedin.com/in/sambonfanti/)
 
 God Bless You! 😇
